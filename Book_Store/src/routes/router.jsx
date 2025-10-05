@@ -7,7 +7,7 @@ import AddBook from "../pages/Books/AddBook";
 import UpdateBook from "../pages/Books/UpdateBook";
 
 // Journals
-import Journals from "../pages/Journals/Journal";
+import Journals from "../pages/Journals/Journals";
 import AddJournal from "../pages/Journals/AddJournal";
 import UpdateJournal from "../pages/Journals/UpdateJournal";
 
